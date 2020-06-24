@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Beary McBearFace",
+    "image": "https://placebear.com/600/300",
+    "animal": "bear"
+  },
+  {
+    "name": "Chew Barka",
+    "image": "https://placedog.net/600/300",
+    "animal": "dog"
+  },
+  {
+    "name": "Schrodinger",
+    "image": "https://placekitten.com/600/300",
+    "animal": "cat"
+  },
+  {
+    "name": "Shreddy the Teddy",
+    "image": "https://placebear.com/600/340",
+    "animal": "bear"
+  },
+  {
+    "name": "Prince of Barkness",
+    "image": "https://placedog.net/600/340",
+    "animal": "dog"
+  },
+  {
+    "name": "Mr. Meowgi",
+    "image": "https://placekitten.com/600/340",
+    "animal": "cat"
+  },
+  {
+    "name": "Beary Potter",
+    "image": "https://placebear.com/600/380",
+    "animal": "bear"
+  },
+  {
+    "name": "Doc McDoggins",
+    "image": "https://placedog.net/600/380",
+    "animal": "dog"
+  },
+  {
+    "name": "Luke Skywhisker",
+    "image": "https://placekitten.com/600/380",
+    "animal": "cat"
+  }
+]
